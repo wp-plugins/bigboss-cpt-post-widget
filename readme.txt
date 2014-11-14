@@ -1,5 +1,5 @@
 === Bigboss cpt post widget ===
-Contributors:https:bulbulbigboss
+Contributors:bulbulbigboss
 Donate link: http://bigbosstheme.com/
 Tags: custom post types, post types, latest posts, sidebar widget, plugin
 Requires at least: 3.0.1
