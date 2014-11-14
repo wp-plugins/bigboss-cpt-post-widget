@@ -1,6 +1,6 @@
 === Bigboss cpt post widget ===
 Contributors:bulbulbigboss
-Donate link: http://bigbosstheme.com/
+Donate link: http://bigbosstheme.com/donate-us/
 Tags: custom post types, post types, latest posts, sidebar widget, plugin
 Requires at least: 3.0.1
 Tested up to: 3.4
