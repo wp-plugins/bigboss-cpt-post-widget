@@ -6,7 +6,7 @@
 * Version: 1.0.1
 * Author: Bulbul bigboss
 * Author URI: http://www.bigbosstheme.com/about-us
-* Tags: custom post types, post types, latest posts, sidebar widget, plugin
+* Tags: custom post types, Letest custom post, cpt post, cpt post widget, custom post on sidebar, post types, latest posts, sidebar widget, plugin
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 */
