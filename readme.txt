@@ -35,13 +35,15 @@ just drug and drop where you want to display this plugin
 
 select your custom post type , select number of post you want to show 
 
+if you face any problem then please contact with me http://bigbosstheme.com/about-us
+
 
 
 == Frequently Asked Questions ==
 
 = A question that someone might have =
 
-An answer to that question.
+if you face any problem using Bigboss cpt post widget plugin then please ask question to me 
 
 = What about foo bar? =
 
@@ -56,7 +58,7 @@ Answer to foo bar dilemma.
 
 = 1.0 =
 * A change since the previous version.
-* Another change.
+* No change yet.
 
 = 0.5 =
 * List versions from most recent at top to oldest at bottom.
@@ -79,7 +81,7 @@ Ordered list:
 
 1. Some feature
 1. Another feature
-1. Something else about the plugin
+1. I just try add more option add into this plugin , after complate I will update this plugin 
 
 Unordered list:
 
