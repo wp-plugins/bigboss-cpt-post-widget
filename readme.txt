@@ -24,8 +24,9 @@ install :
 
 
 1. Upload `plugin-name.php` to the `/wp-content/plugins/` directory
-1. Activate the plugin through the 'Plugins' menu in WordPress
-1. Place `<?php do_action('plugin_name_hook'); ?>` in your templates
+2. Activate the plugin through the 'Plugins' menu in WordPress
+3.Go to widget area and just drop and drop 
+4. Place `<?php do_action('bigbosswp_latest_cpt_init'); ?>` in your templates
 
 
 Basic Use 
