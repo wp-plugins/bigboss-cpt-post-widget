@@ -13,20 +13,20 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 Bigboss cpt post widget for displaying the latest posts of any post type including custom types. 
 Control the widget title formatting and the number of posts to display. Plus the widget is completely localized for other languages.
+If you face any problem then contact with me 
+<a target="_blank" href="http://bigbosstheme.com/">online coding</a>
 
 
 
+
+== Installation ==
 How To install Bigboss cpt post widget on your wordpress site 
+1.Upload plugin-name.php to the /wp-content/plugins/ directory
 
-install :
+2.Activate the plugin through the 'Plugins' menu in WordPress 
 
-
-
-
-1. Upload `plugin-name.php` to the `/wp-content/plugins/` directory
-2. Activate the plugin through the 'Plugins' menu in WordPress
-3.Go to widget area and just drop and drop 
-
+3.Go to widget area and just drop and drop
+=======
 
 
 Basic Use 
@@ -80,15 +80,18 @@ for more please visit http://www.bigbosstheme.com
 
 Ordered list:
 
-1. Some feature
-1. Another feature
-1. I just try add more option add into this plugin , after complate I will update this plugin 
+
+1. <a href=”http://bigbosstheme.com”>online coding</a>
+
+2. <a href=”http://bigbosstheme.com”>Coders at work</a>
+3. <a href=”http://bigbosstheme.com”>Bigboss theme</a>
 
 Unordered list:
 
-* something
-* something else
-* third thing
+* <a href=”http://bigbosstheme.com”>bigboss plugin</a>
+* <a href=”http://bigbosstheme.com/contact-us/”>contact me</a>
+* <a href=”http://bigbosstheme.com/video-tutorial//”>Video tutorials</a>
+
 
 Here's a link to [WordPress](http://wordpress.org/ "Bigboss-cpt-post-widget") and one to [Markdown's Syntax Documentation][markdown syntax].
 Titles are optional, naturally.
@@ -102,4 +105,4 @@ Markdown uses email style notation for blockquotes and I've been told:
 `<?php code(); // goes in backticks ?>`
 
  
- 
+
