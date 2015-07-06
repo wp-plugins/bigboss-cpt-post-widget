@@ -3,7 +3,7 @@ Contributors:bulbulbigboss
 Donate link: http://bigbosstheme.com/donate-us/
 Tags: custom post types, post types, latest posts, sidebar widget, plugin
 Requires at least: 3.0.1
-Tested up to: 3.4
+Tested up to: 4.2.2
 Stable tag: 4.3
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -13,8 +13,8 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 Bigboss cpt post widget for displaying the latest posts of any post type including custom types. 
 Control the widget title formatting and the number of posts to display. Plus the widget is completely localized for other languages.
-If you face any problem then contact with me 
-<a target="_blank" href="http://bigbosstheme.com/">online coding</a>
+If you face any problem then contact with me or see more about this 
+<a target="_blank" href="http://bigbosstheme.com/plugins">plugins</a>
 
 
 
