@@ -3,7 +3,7 @@
 * Plugin Name: Bigboss cpt post widget
 * Plugin URI: http://wordpress.org/plugins/bigboss-cpt-post-widget
 * Description: Bigboss cpt post widget for displaying the latest posts of any post type including custom types. Control the widget title formatting and the number of posts to display. Plus the widget is completely localized for other languages.
-* Version: 1.0.1
+* Version: 1.1.2
 * Author: Bulbul bigboss
 * Author URI: http://www.bigbosstheme.com/about-us
 * Tags: custom post types, Letest custom post, cpt post, cpt post widget, custom post on sidebar, post types, latest posts, sidebar widget, plugin
