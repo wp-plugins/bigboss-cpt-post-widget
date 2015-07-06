@@ -59,13 +59,14 @@ Answer to foo bar dilemma.
 
 = 1.0 =
 * A change since the previous version.
-* No change yet.
+* new version please update
 
 = 0.5 =
 * List versions from most recent at top to oldest at bottom.
 
 == Upgrade Notice ==
 
+= 1.2 = new update version
 = 1.0 =
 Upgrade notices describe the reason a user should upgrade.  No more than 300 characters.
 
@@ -84,11 +85,11 @@ Ordered list:
 1. <a href=”http://bigbosstheme.com”>online coding</a>
 
 2. <a href=”http://bigbosstheme.com”>Coders at work</a>
-3. <a href=”http://bigbosstheme.com”>Bigboss theme</a>
+3. <a href=”http://bigbosstheme.com/plugins/”>plugins</a>
 
 Unordered list:
 
-* <a href=”http://bigbosstheme.com”>bigboss plugin</a>
+* <a href=”http://bigbosstheme.com/plugins”>bigboss plugin</a>
 * <a href=”http://bigbosstheme.com/contact-us/”>contact me</a>
 * <a href=”http://bigbosstheme.com/video-tutorial//”>Video tutorials</a>
 
